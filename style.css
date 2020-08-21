@@ -1,0 +1,44 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5%;
+  color: gray;
+  font-family: monospace;
+  font-size: 1.2rem;
+}
+
+body {
+  background-color: burlywood;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #000;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+  text-align: center;
+  vertical-align: center;
+  font-family: monospace;
+  font-size: 18px;
+  position: relative;
+}
+
+.pixel-index {
+  font-size: 10px;
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  color: #999;
+}
+
+td.pixel {
+  width: 4px;
+  height: 4px;
+  border: 0;
+}
