@@ -2,3 +2,5 @@
 
 This algorithm is not as optimized as it could be, as it is only for educational purposes.
 [Based on this tutorial by Filipe Deschamps.](https://www.youtube.com/watch?v=HCjDjsHPOco)
+
+ [Click here for demo!](https://gabskew.github.io/doom-fire/)
